@@ -1,4 +1,7 @@
-
+# John Kapish
+# 07/18/21
+# Prof. Ruben Balmaceda
+# CNT4713
 import socket,pickle,struct
 
 server_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
